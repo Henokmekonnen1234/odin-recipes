@@ -1,0 +1,41 @@
+body {
+    margin: 50px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.recipes {
+    text-align: center;
+    color: lightslategray;
+}
+
+.ingredients {
+    margin: 20px;
+    color: bisque;
+}
+
+ul {
+    background-color: antiquewhite;
+}
+
+ul li {
+    margin: 10px;
+    margin-left: 30px;   
+}
+
+.steps {
+    margin: 20px;
+    color: bisque;
+}
+
+ol {
+    background-color: aquamarine;
+}
+
+ol li {
+    margin: 10px;
+    margin-left: 30px;   
+}
